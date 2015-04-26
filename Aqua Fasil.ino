@@ -69,6 +69,7 @@
           > Clock
           > Temperature
           > Settings
+          	> Rotate Rounds
           > Food
           > Timers
           > Help
