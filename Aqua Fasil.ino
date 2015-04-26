@@ -516,11 +516,6 @@ void readButtons(){
          break;
     }
     
-    #define btnPinUP 3261853764  
-    #define btnPinRight   1400905448   
-    #define btnPinDown    3305092678
-    #define btnPinLeft    1972149634
-    #define btnPinOK      2331063592
     delay(500);
 }
 
